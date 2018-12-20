@@ -7,5 +7,10 @@ public class Class1a {
 		System.out.println("Class1a for Package1 for Programs");
 
 	}
+	
+	public void method1()
+	{
+		System.out.println("For Pulling");
+	}
 
 }
